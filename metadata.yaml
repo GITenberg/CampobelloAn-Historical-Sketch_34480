@@ -1,0 +1,29 @@
+_repo: CampobelloAn-Historical-Sketch_34480
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, Kate Gannett
+    aliases:
+    - Wells, K. G. (Kate Gannett)
+    - Wells, Catherine Boott
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '37054'
+    url: http://www.gutenberg.org/2009/agents/37054
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Campobello Island (N.B.)'
+title: 'Campobello: An Historical Sketch'
+url: http://www.gutenberg.org/ebooks/34480
